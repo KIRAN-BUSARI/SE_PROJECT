@@ -14,3 +14,6 @@ install all packages listed below
 3. pip install pillow
 4. pip install numpy
 5. pip install os
+
+Create the sample folder And the Trainer folder if not created.
+Firstly Run the sample generator.py and then run the model trainerr.py it will generate the trainer.yml file (binary file) and then run the Face recognition.py  
