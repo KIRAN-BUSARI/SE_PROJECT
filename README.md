@@ -1,5 +1,7 @@
 # SE_PROJECT
 
+Create a samples folder before running the file
+
 Copy all the file and run the Sample generator.pyrst and then run the model trainer.py there the samples will be trained 
 SE PROJECT
 
@@ -17,3 +19,4 @@ install all packages listed below
 
 Create the sample folder And the Trainer folder if not created.
 Firstly Run the sample generator.py and then run the model trainerr.py it will generate the trainer.yml file (binary file) and then run the Face recognition.py  
+
